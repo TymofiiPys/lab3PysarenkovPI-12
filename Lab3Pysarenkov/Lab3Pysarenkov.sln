@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab3Pysarenkov", "Lab3Pysarenkov\Lab3Pysarenkov.vcxproj", "{FBDDB322-5B6B-4956-AF95-F29AE571DDDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBDDB322-5B6B-4956-AF95-F29AE571DDDB}.Debug|x64.ActiveCfg = Debug|x64
+		{FBDDB322-5B6B-4956-AF95-F29AE571DDDB}.Debug|x64.Build.0 = Debug|x64
+		{FBDDB322-5B6B-4956-AF95-F29AE571DDDB}.Debug|x86.ActiveCfg = Debug|Win32
+		{FBDDB322-5B6B-4956-AF95-F29AE571DDDB}.Debug|x86.Build.0 = Debug|Win32
+		{FBDDB322-5B6B-4956-AF95-F29AE571DDDB}.Release|x64.ActiveCfg = Release|x64
+		{FBDDB322-5B6B-4956-AF95-F29AE571DDDB}.Release|x64.Build.0 = Release|x64
+		{FBDDB322-5B6B-4956-AF95-F29AE571DDDB}.Release|x86.ActiveCfg = Release|Win32
+		{FBDDB322-5B6B-4956-AF95-F29AE571DDDB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0968E78-E7A6-4D0D-83C2-4A98EFEE592E}
+	EndGlobalSection
+EndGlobal
